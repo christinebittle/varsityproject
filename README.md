@@ -37,3 +37,7 @@ A brief demonstration of Entity Framework, Code First, and LINQ. WebAPI Operatio
 
 ## Interact with the data directly (similar to PhpMyAdmin)
 - VIEW > SQL SERVER OBJECT EXPLORER > VARSITYPROJECT > TABLES > PLAYERS > VIEW DATA
+
+![Navigating to SQL Server Object Explorer](https://github.com/christinebittle/varsityproject/blob/master/Varsity_Project/assets/sqlserver_example.png)
+![Manipulating objects directly in the database](https://github.com/christinebittle/varsityproject/blob/master/Varsity_Project/assets/local_sqlserver.png)
+
