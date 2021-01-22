@@ -42,3 +42,8 @@ A brief demonstration of Entity Framework, Code First, and LINQ. WebAPI Operatio
 
 ![Manipulating objects directly in the database](https://github.com/christinebittle/varsityproject/blob/master/Varsity_Project/assets/local_sqlserver.png)
 
+## References
+- (Entity Framework Tutorial)[https://www.entityframeworktutorial.net/what-is-entityframework.aspx]
+- (Code First Tutorial)[https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx]
+- (Entity Framework with WebAPI)[https://docs.microsoft.com/en-us/aspnet/web-api/overview/data/using-web-api-with-entity-framework/]
+
