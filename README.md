@@ -6,6 +6,7 @@ A brief demonstration of Entity Framework, Code First, and LINQ. WebAPI Operatio
 
 ## To Run This Project
 - Clone Codebase
+# - Right Click Project > View Project in File Explorer > Create Folder "App_Data"
 - Tools > Nuget Package Manager > Package Manager Console
 - enable-migrations
 - add-migration {migration_name}
